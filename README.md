@@ -1,11 +1,11 @@
 <h1>Hi, I'm Luke!</h1> 
 
-<h2>👨‍💻 Personal Engineering Projects:</h2>
+<h2>⚙️ Personal Engineering Projects:</h2>
 
   - [Autonomous Submarine](https://github.com/lukehodge11/Algorithms-Practice)
   - [Autonomous Car](https://github.com/lukehodge11/Autonomous-Car)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Certifications: </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
