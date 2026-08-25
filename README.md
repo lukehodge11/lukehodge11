@@ -7,7 +7,7 @@
 
 <h2>Certifications: </h2>
 
-  - [Florida Bright Futures Scholarship](https://github.com/lukehodge11/Algorithms-Practice)
+  - [Florida Bright Futures Scholarship](https://imgur.com/a/XN6IQI0)
   - [Autonomous Car](https://github.com/lukehodge11/Autonomous-Car)
 
 <h2> 🤳 Connect with me:</h2>
