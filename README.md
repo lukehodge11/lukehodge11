@@ -2,7 +2,7 @@
 
 <h2>⚙️ Personal Engineering Projects:</h2>
 
-  - [Autonomous Submarine](https://github.com/lukehodge11/Algorithms-Practice)
+  - [Autonomous Submarine](https://github.com/lukehodge11/Autonomous-Submarine)
   - [Autonomous Car](https://github.com/lukehodge11/Autonomous-Car)
 
 <h2>Certifications: </h2>
