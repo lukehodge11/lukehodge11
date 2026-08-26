@@ -1,4 +1,6 @@
 <h1>Hi, I'm Luke!</h1> 
+[Engineering Student at the University of West Florida](www.linkedin.com/in/luke-hodge)
+
 
 <h2>⚙️ Personal Engineering Projects:</h2>
 
