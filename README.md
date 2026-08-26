@@ -1,5 +1,4 @@
-<h1>Hi, I'm Luke!</h1> 
-[Engineering Student at the University of West Florida](https://www.linkedin.com/in/luke-hodge/)
+<h1>Hi, I'm Luke!<br/> <a href="https://www.linkedin.com/in/luke-hodge/">Engineering Student at the University of West Florida</a>
 
 
 <h2>⚙️ Personal Engineering Projects:</h2>
