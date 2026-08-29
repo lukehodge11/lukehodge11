@@ -9,5 +9,7 @@
 <h2>Certifications: </h2>
 
   - [Florida Bright Futures Scholarship](https://imgur.com/a/XN6IQI0)
-  - [Autonomous Car](https://github.com/lukehodge11/Autonomous-Car)
+  - [Summer 2026 Deans Honor Roll Certificate](https://imgur.com/a/4iSrS5n)
+  - [Spring 2026 Presidents List Certificate](https://imgur.com/a/Aj9yoD5)
+  - [Fall 2025 Presidents List Certificate](https://imgur.com/a/7xbBARo)
 
