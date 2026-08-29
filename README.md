@@ -1,10 +1,12 @@
 <h1>Hi, I'm Luke!<br/> <a href="https://www.linkedin.com/in/luke-hodge/">Engineering Student at the University of West Florida</a>
 
 
-<h2>⚙️ Personal Engineering Projects:</h2>
+<h2>Independent Engineering Projects:</h2>
 
   - [Autonomous Submarine](https://github.com/lukehodge11/Autonomous-Submarine)
   - [Autonomous Car](https://github.com/lukehodge11/Autonomous-Car)
+  - [Automated Blinds / Sunrise Alarm](https://github.com/lukehodge11/Automated-Blinds)
+  - [SolidWorks Guitar Replica](
 
 <h2>Certifications: </h2>
 
