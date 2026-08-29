@@ -4,7 +4,7 @@
 <h2>Independent Engineering Projects:</h2>
 
   - [Autonomous Submarine](https://github.com/lukehodge11/Autonomous-Submarine)
-  - [Autonomous Car](https://github.com/lukehodge11/Autonomous-Car)
+  - [Self-Driving Car](https://github.com/lukehodge11/Autonomous-Car)
   - [Automated Blinds / Sunrise Alarm](https://github.com/lukehodge11/Automated-Blinds)
   - [SolidWorks Guitar Replica](https://github.com/lukehodge11/SolidWorks-Guitar-Replica)
 
