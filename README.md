@@ -5,7 +5,7 @@
 
   - [Autonomous Submarine](https://github.com/lukehodge11/Autonomous-Submarine)
   - [Self-Driving Car](https://github.com/lukehodge11/Autonomous-Car)
-  - [Automated Blinds / Sunrise Alarm](https://github.com/lukehodge11/Automated-Blinds)
+  - [Automated Blinds / Sunrise Alarm](https://github.com/lukehodge11/Sunrise-Alarm)
   - [SolidWorks Guitar Replica](https://github.com/lukehodge11/SolidWorks-Guitar-Replica)
 
 <h2>Certifications: </h2>
